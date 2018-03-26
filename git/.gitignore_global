@@ -1,0 +1,16 @@
+# Intellij
+.idea/
+*.iml
+out/
+
+# Java
+*.class
+
+# Python
+__pycache__/
+
+
+# Misc
+*.pdf
+*.swp
+

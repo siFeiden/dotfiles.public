@@ -1,0 +1,14 @@
+[user]
+	email = mail@example.com
+	name  = John Doe
+[core]
+	excludesfile = /home/simon/.gitignore_global
+
+[pager]
+  log  = diff-highlight | less
+  show = diff-highlight | less
+  diff = diff-highlight | less
+
+[status]
+  showUntrackedFiles = all
+
