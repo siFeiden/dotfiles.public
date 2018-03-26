@@ -1,0 +1,10 @@
+!urxvt: 
+urxvt*scrollBar:  false
+urxvt*background: rgb:22/22/22
+urxvt*foreground: white
+urxvt*font:       xft:FiraMono:pixelsize=19:antialias=true
+
+urxvt*perl-lib:       /usr/lib/urxvt/perl/
+urxvt*perl-ext:       default,matcher
+urxvt*url-launcher:   /usr/bin/chromium
+urxvt*matcher.button: 1
